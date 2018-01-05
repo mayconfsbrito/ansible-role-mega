@@ -10,9 +10,6 @@ galaxy_info:
    - name: Fedora
      versions:
      - all
-     - 25
-     - 26
-     - 57
   
   galaxy_tags: []
 
